@@ -1,0 +1,6 @@
+# Core
+numpy
+opencv-python-headless
+pillow
+
+# Later we will add more packages
